@@ -5,4 +5,4 @@ File agin changed, from clone.
 
 remote also change
 
-This is now in MASTER
+This is now in NEW MASTER
